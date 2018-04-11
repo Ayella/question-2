@@ -1,0 +1,24 @@
+(do_it.h)
+#ifndef Do_it_h
+#define Do_it_h
+float do_it(char a,char b,char c);
+#endif//Do_it_h
+
+
+
+
+
+
+
+(print_a_number.h)
+#ifndef PRINT_A_NUMBER_H
+#define PRINT_A_NUMBER_H
+void print_a_number(int x);
+#endif// PRINT_A_NUMBER_H
+
+
+
+
+
+
+THE MAIN FUNCTION CALLS  THE Print_msg()function WITH A STRING  ARGUMENT AND THE Print_msg()function IS NOT SUPPOSED TO TAKE ANY ARGUMENTS....
